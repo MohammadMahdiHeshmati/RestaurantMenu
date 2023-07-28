@@ -1,5 +1,5 @@
 # RestaurantMenu
-Restaurant Menu React Js 
+Restaurant Menu With React Js 
 
 # Usage
 1. npm i
